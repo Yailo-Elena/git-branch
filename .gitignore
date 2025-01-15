@@ -1,0 +1,10 @@
+*.log
+Tmp/
+git
+*.class
+*.jar
+*.war
+*.ear
+*.tmp
+*.exe
+!error.log
